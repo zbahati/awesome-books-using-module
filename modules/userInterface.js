@@ -15,7 +15,7 @@ export default class UI {
     });
   }
 
-  displayBooks(books) {
+  displayBooks= (books) => {
     this.bookList.innerHTML = '';
     books.forEach((book) => {
       const bookDiv = document.createElement('li');
