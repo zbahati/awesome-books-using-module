@@ -33,7 +33,7 @@
 # 📖 [Awesome book project] <a name="about-project"></a>
 
 **[Awesome books Project]**
-  The Awesome Books project is a simple website that displays a list of books and allows users to add and remove books from that list. The website is built using HTML, CSS, and JavaScript, and it is designed to be interactive and easy to use.
+  The Awesome Books project is a simple website that displays a list of books and allows users to add and remove books from that list. The website is built using HTML, CSS, and JavaScript, es6, and it is designed to be interactive and easy to use.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,6 +47,8 @@
     <li><a href="">HTML5</a></li>
     <li><a href="">CSS3</a></li>
     <li><a href="">JavaScript</a></li>
+    <li><a href="">ES6</a></li>
+    
   </ul>
 </details>
 
@@ -86,7 +88,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- <p><a href="#">DEMO COMMING SOON </a></p>
+ <p><a href="https://zbahati.github.io/awesome-books-using-module/">PROJECT LIVE</a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
